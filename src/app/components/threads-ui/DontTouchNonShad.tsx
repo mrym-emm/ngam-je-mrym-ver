@@ -13,8 +13,8 @@ import {
   Zap,
   ChevronRight,
 } from "lucide-react";
-import { ThreadData } from "../../utils/mock-threads-data";
-import { COLORS } from "../theme";
+import { ThreadData } from "../../../utils/mock-threads-data";
+import { COLORS } from "../../theme";
 
 // what props this component needs
 type ThreadCardProps = {

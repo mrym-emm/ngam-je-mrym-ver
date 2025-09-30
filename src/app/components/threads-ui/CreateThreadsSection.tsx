@@ -2,7 +2,7 @@
 
 import React from "react";
 import { X } from "lucide-react";
-import { COLORS } from "../theme";
+import { COLORS } from "../../theme";
 
 // what props this component needs
 type CreateThreadModalProps = {

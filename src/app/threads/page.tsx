@@ -7,10 +7,10 @@ import {
   ChevronLeft,
   ChevronRight,
 } from "lucide-react";
-import ThreadCard from "../components/ThreadCard";
+import ThreadCard from "../components/threads-ui/ThreadCard";
 import { MOCK_THREADS, ThreadData } from "../../utils/mock-threads-data";
-import AIAgentOverlay from "../components/AIAgentOverlay";
-import CreateThreadsSection from "../components/CreateThreadsSection"; // add create thread section
+import AIAgentOverlay from "../components/threads-ui/AIAgentOverlay";
+import CreateThreadsSection from "../components/threads-ui/CreateThreadsSection"; // add create thread section
 
 import { COLORS } from "../theme";
 
